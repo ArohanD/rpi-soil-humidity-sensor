@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mcp-spi-adc": "^3.1.0"
+    "mcp-spi-adc": "^3.1.0",
+    "onoff": "^6.0.0"
   }
 }
